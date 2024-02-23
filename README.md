@@ -17,7 +17,7 @@
 <img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*Ome-oSxDNx7mQxJFZJ-NJg.png" height=50px width = 50px> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" height=50px width = 50px> 
 <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" height=50px width = 50px> 
-<img src="https://leninmhs.com/wp-content/uploads/2023/11/que-es-bitbucket-1024x617.png" height=50px width = 50px> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/bitbucket/bitbucket-original-wordmark.svg" height=50px width = 50px> 
 <img src="https://media.licdn.com/dms/image/C4E12AQFk60dsM5kO-A/article-cover_image-shrink_423_752/0/1635114070340?e=1714003200&v=beta&t=VpzUA6jmQdcjY508LzwdeuUaWAGrYLbrDzHozHoPyEI" height=50px width = 50px> 
 <img src="https://www.cognodata.com/wp-content/uploads/2019/04/Screenshot-2019-07-18-at-13.37.37-min.png" height=50px width = 50px> 
 
