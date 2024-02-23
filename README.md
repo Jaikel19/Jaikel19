@@ -53,7 +53,7 @@
 
 
 # 👨🏻‍💼 Contactame
-📞 (+506) 86790-0704
-📧 jaikel.guzman@outlook.com
+📞 (+506) 86790-0704 <br>
+📧 jaikel.guzman@outlook.com <br>
 🔗 <a href="https://www.linkedin.com/in/jguzmanc/">LinkedIn</a>
 
