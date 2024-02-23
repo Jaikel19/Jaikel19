@@ -45,11 +45,15 @@
 <img src="https://www.bigbaydata.com/wp-content/uploads/2022/11/sql_ejercicios.png" height=50px width = 50px> 
 </div>
 
-# 📘 Habilidades
+# 🗣️ Idiomas
 
 🇨🇷 Español 
 <br>
 🇺🇸 Inglés
 
 
-# 📞 Contactame
+# 👨🏻‍💼 Contactame
+📞 (+506) 86790-0704
+📧 jaikel.guzman@outlook.com
+🔗 <a href="https://www.linkedin.com/in/jguzmanc/">LinkedIn</a>
+
