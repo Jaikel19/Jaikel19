@@ -15,6 +15,16 @@
 <div align="left">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png" height=32px width = 32px>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/800px-CSS3_logo_and_wordmark.svg.png" height=32px width = 32px>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png" height=32px width=32px>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png" height=32px width=32px>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/512px-Sass_Logo_Color.svg.png" height=32px width=32px>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/C_Sharp_logo.svg/600px-C_Sharp_logo.svg.png" height=32px width=32px>
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/600px-Java_programming_language_logo.svg.png" height=32px width=32px>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Microsoft_Azure_Logo.svg/1280px-Microsoft_Azure_Logo.svg.png" height=32px width=32px>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Mongodb_logo.png/800px-Mongodb_logo.png" height=32px width=32px>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Azure_DevOps_2019.svg/800px-Azure_DevOps_2019.svg.png" height=32px width=32px>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" height=32px width=32px>
+
 
 </div>
 
