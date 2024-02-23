@@ -7,8 +7,15 @@
 </div>
 
 ## 🙋🏻‍♂️ About me
+
 <h4 align="left">Soy un Técnico en Desarrollo de Software apasionado de la tecnología de la información y el desarrollo de aplicaciones, con habilidades para un aprendizaje rápido y con una mentalidad de crecimiento. Como parte de mis habilidades blandas, tengo buena comunicación, gran trabajo en equipo, adaptación a todo tipo de entornos laborales y capacidad de mejora constante basada en la auto-crítica.</h4>
 
+# 📘 Actividades extracurriculares 
+
+🥁 Baterista <br>
+🎮 Gamer <br>
+📚 Lector <br>
+⚽ Futbolista <br>
 
 # 🔧 Tecnologías, herramientas y habilidades
 <div align="left">
@@ -44,11 +51,5 @@
 <br>
 🇺🇸 Inglés
 
-# 📘 Actividades extracurriculares 
-
-🥁 Baterista <br>
-🎮 Gamer <br>
-📚 Lector <br>
-⚽ Futbolista <br>
 
 # 📞 Contactame
