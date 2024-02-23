@@ -12,7 +12,7 @@
 
 
 # 💻 Tecnologías y herramientas
-<div align="left">
+<div align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png" height=50px width = 50px>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/800px-CSS3_logo_and_wordmark.svg.png" height=50px width = 50px>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png" height=50px width = 50px>
@@ -24,12 +24,16 @@
 <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*doAg1_fMQKWFoub-6gwUiQ.png" height=50px width = 50px>
 <img src="https://www.bigbaydata.com/wp-content/uploads/2022/11/sql_ejercicios.png" height=50px width = 50px>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" height=50px width = 50px>
-
-
 </div>
 
 
 # 📘 Habilidades
+
+🇨🇷 Español 
+<br>
+🇺🇸 Inglés
+
+# 📘 Actividades extracurriculares 
 
 🇨🇷 Español 
 <br>
