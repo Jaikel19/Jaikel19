@@ -8,9 +8,8 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-<hr/>
 <h4 align="center">Soy un Técnico en Desarrollo de Software apasionado de la tecnología de la información y el desarrollo de aplicaciones, con habilidades para un aprendizaje rápido y con una mentalidad de crecimiento. Como parte de mis habilidades blandas, tengo buena comunicación, gran trabajo en equipo, adaptación a todo tipo de entornos laborales y capacidad de mejora constante basada en la auto-crítica.</h4>
-<br>
+
 
 <br>
 <h2 align="left">Languages and Tools</h2>
