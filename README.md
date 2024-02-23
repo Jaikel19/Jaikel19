@@ -32,7 +32,8 @@
 <img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/0*eFomJUFua8tuqe8g.png" height=50px width = 50px> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1024px-Angular_full_color_logo.svg.png" height=50px width = 50px> <br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/C_Sharp_Logo_2023.svg/1024px-C_Sharp_Logo_2023.svg.png" height=50px width = 50px> 
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/600px-Java_programming_language_logo.svg.png" height=50px width = 50px> <br>
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/600px-Java_programming_language_logo.svg.png" height=50px width = 50px> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/1024px-Spring_Boot.svg.png" height=50px width = 50px> <br>
 <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*doAg1_fMQKWFoub-6gwUiQ.png" height=50px width = 50px> 
 <img src="https://www.bigbaydata.com/wp-content/uploads/2022/11/sql_ejercicios.png" height=50px width = 50px> 
 </div>
