@@ -42,9 +42,9 @@
 
 # 📘 Actividades extracurriculares 
 
-🥁 Baterista
-🎮 Gamer
-📚 Lector
-⚽ Futbolista 
+🥁 Baterista <br>
+🎮 Gamer <br>
+📚 Lector <br>
+⚽ Futbolista <br>
 
 # 📞 Contactame
