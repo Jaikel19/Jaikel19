@@ -8,11 +8,11 @@
 
 
 ## 🙋🏻‍♂️ About me
-<h4 align="center">Soy un Técnico en Desarrollo de Software apasionado de la tecnología de la información y el desarrollo de aplicaciones, con habilidades para un aprendizaje rápido y con una mentalidad de crecimiento. Como parte de mis habilidades blandas, tengo buena comunicación, gran trabajo en equipo, adaptación a todo tipo de entornos laborales y capacidad de mejora constante basada en la auto-crítica.</h4>
+<h4 align="left">Soy un Técnico en Desarrollo de Software apasionado de la tecnología de la información y el desarrollo de aplicaciones, con habilidades para un aprendizaje rápido y con una mentalidad de crecimiento. Como parte de mis habilidades blandas, tengo buena comunicación, gran trabajo en equipo, adaptación a todo tipo de entornos laborales y capacidad de mejora constante basada en la auto-crítica.</h4>
 
 
 # 🔧 Tecnologías, herramientas y habilidades
-<div align="center">
+<div align="left">
 
 <img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*Ome-oSxDNx7mQxJFZJ-NJg.png" height=50px width = 50px> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" height=50px width = 50px> 
@@ -23,7 +23,7 @@
 </div>
 
 # 💻 Lenguajes de desarrollo
-<div align="center">
+<div align="left">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png" height=50px width = 50px> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/800px-CSS3_logo_and_wordmark.svg.png" height=50px width = 50px> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png" height=50px width = 50px> 
