@@ -19,6 +19,8 @@
 <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" height=50px width = 50px> 
 <img src="https://media.licdn.com/dms/image/C4E12AQFk60dsM5kO-A/article-cover_image-shrink_423_752/0/1635114070340?e=1714003200&v=beta&t=VpzUA6jmQdcjY508LzwdeuUaWAGrYLbrDzHozHoPyEI" height=50px width = 50px> 
 <img src="https://www.cognodata.com/wp-content/uploads/2019/04/Screenshot-2019-07-18-at-13.37.37-min.png" height=50px width = 50px> 
+<img src="https://www.pngegg.com/en/png-einem" height=50px width = 50px> 
+
 </div>
 
 # 💻 Lenguajes de desarrollo
