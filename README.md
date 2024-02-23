@@ -15,8 +15,6 @@
 <div align="left">
 
 <img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*Ome-oSxDNx7mQxJFZJ-NJg.png" height=50px width = 50px> 
-<img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*doAg1_fMQKWFoub-6gwUiQ.png" height=50px width = 50px> 
-<img src="https://www.bigbaydata.com/wp-content/uploads/2022/11/sql_ejercicios.png" height=50px width = 50px> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" height=50px width = 50px> 
 </div>
 
@@ -29,10 +27,8 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/512px-Sass_Logo_Color.svg.png" height=50px width = 50px> <br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/C_Sharp_Logo_2023.svg/1024px-C_Sharp_Logo_2023.svg.png" height=50px width = 50px> 
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/600px-Java_programming_language_logo.svg.png" height=50px width = 50px> <br>
-<img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*Ome-oSxDNx7mQxJFZJ-NJg.png" height=50px width = 50px> 
 <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*doAg1_fMQKWFoub-6gwUiQ.png" height=50px width = 50px> <br>
 <img src="https://www.bigbaydata.com/wp-content/uploads/2022/11/sql_ejercicios.png" height=50px width = 50px> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" height=50px width = 50px> <br>
 </div>
 
 # 📘 Habilidades
