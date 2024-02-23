@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://www.linkedin.com/in/jguzmanc/">Jaikel Guzmán</a> 💻</h1>
+<h1 align="center">Hola, soy <a href="https://www.linkedin.com/in/jguzmanc/">Jaikel Guzmán</a> 👋🏻</h1>
 </div>
 
 <div align="center">
