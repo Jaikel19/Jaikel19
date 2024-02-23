@@ -21,7 +21,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/C_Sharp_Logo_2023.svg/1024px-C_Sharp_Logo_2023.svg.png" height=32px width=32px>
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/600px-Java_programming_language_logo.svg.png" height=32px width=32px>
 <img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*Ome-oSxDNx7mQxJFZJ-NJg.png" height=32px width=32px>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Mongodb_logo.png/800px-Mongodb_logo.png" height=32px width=32px>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/1920px-MongoDB_Logo.svg.png" height=32px width=32px>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Azure_DevOps_2019.svg/800px-Azure_DevOps_2019.svg.png" height=32px width=32px>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" height=32px width=32px>
 
