@@ -22,7 +22,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/600px-Java_programming_language_logo.svg.png" height=32px width=32px>
 <img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*Ome-oSxDNx7mQxJFZJ-NJg.png" height=32px width=32px>
 <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*doAg1_fMQKWFoub-6gwUiQ.png" height=32px width=32px>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Azure_DevOps_2019.svg/800px-Azure_DevOps_2019.svg.png" height=32px width=32px>
+<img src="https://www.bigbaydata.com/wp-content/uploads/2022/11/sql_ejercicios.png" height=32px width=32px>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" height=32px width=32px>
 
 
