@@ -6,8 +6,9 @@
   <img src="https://media.licdn.com/dms/image/D4E16AQE2RZRZ_wV8yA/profile-displaybackgroundimage-shrink_350_1400/0/1708663575282?e=1714003200&v=beta&t=WGmq5wHMI_KaLcp7ShXsPLnsGChgVDS1P30gpHxZ90w">
 </div>
 
-
-## 🙋🏻‍♂️ About me
+<div align="center">
+  ## 🙋🏻‍♂️ About me
+</div>
 <h4 align="left">Soy un Técnico en Desarrollo de Software apasionado de la tecnología de la información y el desarrollo de aplicaciones, con habilidades para un aprendizaje rápido y con una mentalidad de crecimiento. Como parte de mis habilidades blandas, tengo buena comunicación, gran trabajo en equipo, adaptación a todo tipo de entornos laborales y capacidad de mejora constante basada en la auto-crítica.</h4>
 
 
