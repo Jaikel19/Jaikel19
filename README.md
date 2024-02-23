@@ -32,6 +32,7 @@
 # 📘 Habilidades
 
 🇨🇷 Español 
+<br>
 🇺🇸 Inglés
 
 # 💻Contactame
